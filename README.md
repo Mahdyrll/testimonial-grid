@@ -20,7 +20,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/four-card-feature-section-using-tailwind-and-react-HfyziOKC8z)
+- Solution URL: (https://www.frontendmentor.io/solutions/testimonials-grid-section-tailwind-lLx92UB42a)
 
 ## My process
 
