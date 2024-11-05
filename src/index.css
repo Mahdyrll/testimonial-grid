@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .first-child:first-child  img {
+        @apply block
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+}
+
+@layer base {
+    @font-face {
+        font-family: 'thin';
+        src: url('./assets/Barlow_Semi_Condensed/BarlowSemiCondensed-Thin.ttf');
+    }
+
+    @font-face {
+        font-family: 'light';
+        src: url('./assets/Barlow_Semi_Condensed/BarlowSemiCondensed-Light.ttf');
+    }
+
+    @font-face {
+        font-family: 'semibold';
+        src: url('./assets/Barlow_Semi_Condensed/BarlowSemiCondensed-SemiBold.ttf');
+    }
+
+    @font-face {
+        font-family: 'medium';
+        src: url('./assets/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.ttf');
+    }
+
+    @font-face {
+        font-family: 'regular';
+        src: url('./assets/Barlow_Semi_Condensed/BarlowSemiCondensed-Regular.ttf');
+    }
+
+    @font-face {
+        font-family: 'bold';
+        src: url('./assets/Barlow_Semi_Condensed/BarlowSemiCondensed-Bold.ttf');
+    }
+}
