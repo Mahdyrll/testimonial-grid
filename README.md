@@ -22,6 +22,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - Solution URL: (https://www.frontendmentor.io/solutions/testimonials-grid-section-tailwind-lLx92UB42a)
 
+- Live preview:
+(https://mahdyrll.github.io/testimonial-grid/) 
+
 ## My process
 
 ### Built with
